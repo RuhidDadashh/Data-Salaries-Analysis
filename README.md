@@ -14,5 +14,5 @@ The dashboard includes the following visualizations:
 - **Average Salary by Job Title and Experience Level**: A table listing job titles with corresponding average salaries and experience levels.
 
 ## Data Source
-The salary data used in this dashboard was obtained from [[Kaggle](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)].
+The salary data used in this dashboard was obtained from [Kaggle](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries).
 
